@@ -1,6 +1,6 @@
-# Throwup
+# Bins
 
-Throw it up
+A small side project to organize notes and items. Built using Swift and CoreData. Works as an easy-to-setup example project of using the two. Currently a work in progress.
 
 ---
 
